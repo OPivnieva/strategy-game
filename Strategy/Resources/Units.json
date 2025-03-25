@@ -1,0 +1,50 @@
+[
+  {
+    "Name": "Recruit",
+    "Protection": 2,
+    "Attack": 2,
+    "SpeedAndInitiative": 1,
+    "TimePreparation": 1,
+    "PriceCoins": 2,
+    "PricePeople": 1,
+    "Bilding": "TownHall",
+    "LevelBilding": 1,
+    "Longdistance": false
+  },
+  {
+    "Name": "Shooter",
+    "Protection": 3,
+    "Attack": 4,
+    "SpeedAndInitiative": 3,
+    "TimePreparation": 3,
+    "PriceCoins": 8,
+    "PricePeople": 1,
+    "Bilding": "Barracks",
+    "LevelBilding": 1,
+    "Longdistance": true
+  },
+  {
+    "Name": "Infantryman",
+    "Protection": 6,
+    "Attack": 8,
+    "SpeedAndInitiative": 1,
+    "TimePreparation": 3,
+    "PriceCoins": 20,
+    "PricePeople": 1,
+    "Bilding": "Barracks",
+    "LevelBilding": 4,
+    "Longdistance": false
+  },
+  {
+    "Name": "Trooper",
+    "Protection": 7,
+    "Attack": 20,
+    "SpeedAndInitiative": 3,
+    "TimePreparation": 4,
+    "PriceCoins": 48,
+    "PricePeople": 1,
+    "Bilding": "Barracks",
+    "LevelBilding": 7,
+    "Longdistance": false
+  }
+]
